@@ -1,0 +1,10 @@
+requests==2.25.0
+PyExecJS==1.5.1
+opencv-python==4.5.1.48
+Django==3.2.3
+APScheduler==3.7.0
+django-apscheduler==0.5.2
+PyMySQL==1.0.2
+tensorflow==2.0.0
+Keras==2.3.0
+h5py==2.10.0
