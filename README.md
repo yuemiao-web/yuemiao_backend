@@ -1,3 +1,6 @@
+**该项目仅供学习，如用于商业用途，后果自负**
+该项目中的接口调用使用了状态模式，有兴趣的朋友可以学一学。
+
 # 抢苗程序
 目前只支持知苗易约小程序
 
@@ -29,6 +32,7 @@
 + [charles实现微信小程序抓包](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1145984&highlight=%CE%A2%D0%C5%D0%A1%B3%CC%D0%F2)
 + [有关ssl-pinning的总结](https://www.jianshu.com/p/22b56d977825)
 + [利用Xposed+JustTrustMe绕过Android App（途牛apk）的SSL Pinning](https://blog.csdn.net/weixin_44677409/article/details/106663127)
++ [当你写爬虫抓不到APP请求包的时候该怎么办？【初级篇】](https://zhuanlan.zhihu.com/p/46433599)
 
 ## 问题记录
 
